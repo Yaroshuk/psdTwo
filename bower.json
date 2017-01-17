@@ -1,0 +1,7 @@
+{
+  "name": "SusyGrid",
+  "version": "0.1.0",
+  "dependencies": {
+    "susy": "~2.2.11"
+  }
+}

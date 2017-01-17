@@ -1,0 +1,9 @@
+$main-color: #e85408;
+$h-main-color: #fd5c0a;
+$a-main-color: #de520a;
+$text-color: #515151;
+$gray-color: #f3f3f3;
+
+@mixin trans($one:0.5s, $two:0s) {
+	transition: all $one ease $two;
+}
